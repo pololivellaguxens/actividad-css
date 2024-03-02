@@ -51,3 +51,41 @@ h1{
  .colorprincipal{
     background-color:#045c0d;
  }
+ .colorverde{
+    background-color: #0c3e11;
+ }
+ .colorgris{
+    background-color: #7b7b7b;
+ }
+ .verdeamarillo{
+    background-color: #758f27;
+ }
+ .colorblanco{
+    background-color: #e6ede6;
+ }
+ .colorcesped{
+    background-color: #43a24d;
+ }
+ .verdemilitar{
+    background-color:#032b07 ;
+ }
+ .amarilloclaro{
+    background-color: #dde5b6;
+ }
+ .amarillo{
+    background-color: #ffb700;
+ }
+ .bodyform{
+   background-color: #0c3e11;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+ }
+ .table1 {
+   background-color: #000;
+   border: 2px solid #000;
+   border-collapse: separate;
+   width: 60%;
+   height: 60%;
+ }
